@@ -7,3 +7,5 @@ J.T., (eds.), Springer Series in Emerging Topics in Statistics and Biostatistics
 (doi: https://doi.org/10.1007/978-3-030-42196-0_9)
 
 The R workspaces need the package Rmpfr
+
+In the R workspaces there are help functions with the name of the wrokspace followed by '_help' which may be used to get help on the main user functions. As for exampe in the DGIG.RData workspace, one can use DGIG_help(DGIGpdf) to obtain help on the GIGpdf function
